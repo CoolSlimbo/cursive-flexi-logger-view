@@ -5,7 +5,7 @@ authors = [
 ]
 description = "An alternative debug view for gyscos/cursive using emabee/flexi_logger"
 documentation = "https://docs.rs/cursive-flexi-logger-view"
-edition = "2018"
+edition = "2021"
 keywords = ["cursive-views", "cursive", "logging", "debug", "terminal"]
 license = "BSD-3-Clause"
 name = "cursive-flexi-logger-view"
